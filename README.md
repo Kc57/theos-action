@@ -11,7 +11,7 @@ v1: Initial release. Only MacOS support, and only supports 1 SDK repo (although 
 MAKE SURE YOU'RE USING THIS WITH A MACOS RUNNER!!! Linux support may be added if there is enough demand, but for now only Mac is supported.
 
 ```
-- uses: Randomblock1/theos-action@v1
+- uses: Kc57/theos-action@v1
   with:
     # This is where Theos is stored, relative to the runner workspace.
     # By default, it's just theos.
